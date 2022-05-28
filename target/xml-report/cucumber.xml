@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="56.68">
+    <testcase classname="US1002_istenen_urunlerle_misafir_olarak_odeme_adimina_ilerleme" name="Kullanici istenen urunleri istenen adette sepete ekler ve odeme adimina ilerler" time="56.527">
+        <system-out><![CDATA[Given Kullanici "n11" adresine gider........................................passed
+Then Ana sayfada arama kutusuna kulaklik yazar ve aratir....................passed
+And Gelen sonuclari yorum sayisina gore siralar.............................passed
+And Gelen urunleri ucretsiz kargo secenegine gore filtreler.................passed
+Then Gelen urunlerden ilk sayfadaki birinci ve sonuncu urunu sepete ekler...passed
+And Sepete gider ve sepetteki ucuz urunun adedini iki yapar.................passed
+Then Misafir kullanici olarak odeme adimina ilerler.........................passed
+]]></system-out>
+    </testcase>
+</testsuite>
